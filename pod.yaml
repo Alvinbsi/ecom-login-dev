@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: alvinselva/alvinimage:latest
+          image: alvinselva/ecom-dev-image:latest
           imagePullPolicy: Always
 
